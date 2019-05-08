@@ -1,2 +1,2 @@
 # 670-Final 
-The url for the powerpoint video is at the top of the jupyter notebbook
+The url for the powerpoint video is at the top of the jupyter notebook
